@@ -30,10 +30,9 @@ The Edamam Request API is edited based on the user's search criteria and returns
 
 - Make a new search to loop the program to the start.
 
-Contributing: Jemilah 
-Jemilah contributed a separate spell check program which I adapted into a function that loops and fit it in the search program.
+Contributing: Jemilah contributed a separate spell check program which I adapted into a function that loops and fit it in the search program.
 
-Credits: Include a section for credits in order to highlight and link to the authors of your project.
+Credits: Natalie and Jemilah
 
 ![Recipe Search Edamam - 1](https://user-images.githubusercontent.com/88142518/127854010-9900466f-f877-432e-a379-c6503ac51993.png)
 ![Recipe Search Edamam - 2](https://user-images.githubusercontent.com/88142518/127854014-1ce17ab4-a30b-4859-b9c9-d8ece1dcccff.png)
