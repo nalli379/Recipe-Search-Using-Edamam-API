@@ -30,7 +30,7 @@ The Edamam Request API is edited based on the user's search criteria and returns
 
 - Make a new search to loop the program to the start.
 
-Contributing: Jemilah contributed a separate spell check program which I adapted into a function that loops and fit it in the search program.
+Contributing: Jemilah contributed a separate spell check program which we adapted into a function that loops and fit it into the search program.
 
 Credits: Natalie and Jemilah
 
