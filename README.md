@@ -32,15 +32,10 @@ The Edamam Request API is edited based on the user's search criteria and returns
 
 Credits: Natalie and Jemilah
 
-![Recipe Search Edamam - 1](https://user-images.githubusercontent.com/88142518/127854010-9900466f-f877-432e-a379-c6503ac51993.png)
-![Recipe Search Edamam - 2](https://user-images.githubusercontent.com/88142518/127854014-1ce17ab4-a30b-4859-b9c9-d8ece1dcccff.png)
-![Recipe Search Edamam - 4](https://user-images.githubusercontent.com/88142518/127854015-96b635b4-3193-4e68-b993-b12a1f0fca53.png)
-![Recipe Search Edamam - 5](https://user-images.githubusercontent.com/88142518/127854017-7051baaa-529d-483f-8033-6fef11fdbd6a.png)
-![Recipe Search Edamam - 6](https://user-images.githubusercontent.com/88142518/127854018-50c744fc-a959-4690-9e24-3242006a15c0.png)
-![Recipe Search Edamam - 7](https://user-images.githubusercontent.com/88142518/127854019-1592eda0-e22b-413c-a0f1-e1980923a01d.png)
-![Recipe Search Edamam - 8](https://user-images.githubusercontent.com/88142518/127854021-e5fdf24d-a8ce-4a4e-a90d-4722f675075a.png)
-![Recipe Search Edamam - 9](https://user-images.githubusercontent.com/88142518/127854024-3bfcebe8-7f23-495a-917f-faa6cb29685f.png)
-![Recipe Search Edamam - 10](https://user-images.githubusercontent.com/88142518/127854029-70929e18-a624-4633-a70c-3b1a0fc9508c.png)
-![Recipe Search Edamam - 11](https://user-images.githubusercontent.com/88142518/127854034-24ae1f46-c543-45e8-b52c-24e91e779e1d.png)
-![Recipe Search Edamam - 12](https://user-images.githubusercontent.com/88142518/127854035-41cd9251-880f-4a50-a5f8-25ecb44481ce.png)
-![Recipe Search Edamam -3](https://user-images.githubusercontent.com/88142518/127854036-70dca860-cfe8-41a0-be52-bae401cd659b.png)
+![Picture1](https://user-images.githubusercontent.com/88142518/127998315-c5bdbcaa-063a-4bad-b45e-5d2f334f9eec.png)
+![Picture2](https://user-images.githubusercontent.com/88142518/127998316-cc48592f-bcd3-4a08-8897-57d0b03fe298.png)
+![Picture3](https://user-images.githubusercontent.com/88142518/127998319-f82d2bd7-4464-4a29-8a44-5f91e993e51b.png)
+![Picture4](https://user-images.githubusercontent.com/88142518/127998321-51b256a9-115f-4ac2-a20e-77bba0b6b7fd.png)
+![Picture5](https://user-images.githubusercontent.com/88142518/127998324-5149d466-4945-4020-87a3-e772a376c4b1.png)
+![Picture6](https://user-images.githubusercontent.com/88142518/127998326-62a11e22-6d46-4296-9420-2d7dd708ffe2.png)
+![Picture7](https://user-images.githubusercontent.com/88142518/127998328-32723209-5d74-4513-8903-56060f902b00.png)
