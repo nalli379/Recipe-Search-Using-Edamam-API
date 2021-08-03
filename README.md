@@ -2,7 +2,7 @@
 Search and open url links to recipes based on ingredient, dish type and cooking time.
 
 Description: 
-The Recipe Search Program asks the user to input an ingredient, dish type (starter, side dish, main or dessert) and maximum cooking time. The search refines the Edamam API URL request that calls up to 20 results per search. The user can open a url link to any of the recipes requested and can open any number of recipe urls per search. The program loops to the beginning if the user chooses to make a new search.
+The Recipe Search Program asks the user to input an ingredient, dish type (starter, side dish, main or dessert) and maximum cooking time. The search result writes the Edamam API URL request which calls up to 20 results per search. The user can open a url link to any of the recipes requested and can open any number of recipe urls per search. The program loops to the beginning if the user chooses to make a new search.
 
 Installation:
 Python 3.9.6 64-bit
