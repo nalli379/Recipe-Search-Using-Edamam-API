@@ -30,7 +30,7 @@ The Edamam Request API is edited based on the user's search criteria and returns
 
 - Make a new search to loop the program to the start.
 
-Credits: Natalie and Jemilah
+Credits: Jemilah and Natalie
 
 ![Picture1](https://user-images.githubusercontent.com/88142518/127998315-c5bdbcaa-063a-4bad-b45e-5d2f334f9eec.png)
 ![Picture2](https://user-images.githubusercontent.com/88142518/127998316-cc48592f-bcd3-4a08-8897-57d0b03fe298.png)
